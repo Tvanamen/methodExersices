@@ -1,0 +1,15 @@
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\obj\Debug\net6.0\methodExercises.csproj.AssemblyReference.cache
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\obj\Debug\net6.0\methodExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\obj\Debug\net6.0\methodExercises.AssemblyInfoInputs.cache
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\obj\Debug\net6.0\methodExercises.AssemblyInfo.cs
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\obj\Debug\net6.0\methodExercises.csproj.CoreCompileInputs.cache
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\bin\Debug\net6.0\methodExercises.exe
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\bin\Debug\net6.0\methodExercises.deps.json
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\bin\Debug\net6.0\methodExercises.runtimeconfig.json
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\bin\Debug\net6.0\methodExercises.dll
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\bin\Debug\net6.0\methodExercises.pdb
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\obj\Debug\net6.0\methodExercises.dll
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\obj\Debug\net6.0\refint\methodExercises.dll
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\obj\Debug\net6.0\methodExercises.pdb
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\obj\Debug\net6.0\methodExercises.genruntimeconfig.cache
+C:\Users\vanam\Documents\repos\methodExercise\methodExercises\methodExercises\obj\Debug\net6.0\ref\methodExercises.dll
